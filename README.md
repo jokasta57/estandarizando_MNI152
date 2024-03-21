@@ -5,4 +5,4 @@ Pd.- Se adjunta archivo para llevar a cabo un análisis por Voxel-wise en imáge
 for i in $(ls *.hdr); do fslchfiletype NIFTI $i ; done
 
 
-Pd.- se anexa la biblioteca «nifti_utils-master», que se debe agregar desde «Set path» de Matlab, para poder Necesaria trabajar con imágenes NIfTI.
+Pd.- se anexa la biblioteca «nifti_utils-master», la cual se debe agregar desde «Set path» de Matlab, para poder trabajar con imágenes NIfTI.
